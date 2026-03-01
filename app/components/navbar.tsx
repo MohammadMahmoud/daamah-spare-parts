@@ -29,7 +29,7 @@ export default function Navbar({ t, isAr }: NavbarProps) {
         {/* Logo */}
         <Link href={`/${isAr ? 'ar' : 'en'}`} className='flex items-center'>
           <Image
-            src={`/daamah-spare-parts/logo.png`}
+            src='/logo.png'
             alt='daamahh Spare Parts'
             width={140}
             height={40}
