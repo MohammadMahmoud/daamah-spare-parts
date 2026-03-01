@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="public/logo.png" alt="Daama Spare Parts Logo" width="220" />
+<img src="public/logo.png" alt="daamahh Spare Parts Logo" width="220" />
 
-# Daama Spare Parts Establishment
+# Daamahh Spare Parts Establishment
 
 ### Genuine & Aftermarket Parts for German Cars — KSA
 
@@ -12,7 +12,7 @@
 [![GitHub Pages](https://img.shields.io/badge/Hosted_on-GitHub_Pages-222?style=for-the-badge&logo=github)](https://pages.github.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-**[🌐 Live Demo](https://mohammadmahmoud.github.io/daama-spare-parts/)** • **[🐛 Report Bug](https://github.com/MohammadMahmoud/daama-spare-parts/issues)** • **[✨ Request Feature](https://github.com/MohammadMahmoud/daama-spare-parts/issues)**
+**[🌐 Live Demo](https://mohammadmahmoud.github.io/daamah-spare-parts/)** • **[🐛 Report Bug](https://github.com/MohammadMahmoud/daamah-spare-parts/issues)** • **[✨ Request Feature](https://github.com/MohammadMahmoud/daamah-spare-parts/issues)**
 
 </div>
 
@@ -20,7 +20,7 @@
 
 ## 📋 Table of Contents
 
-- [Daama Spare Parts Establishment](#daama-spare-parts-establishment)
+- [Daamahh Spare Parts Establishment](#daamahh-spare-parts-establishment)
     - [Genuine \& Aftermarket Parts for German Cars — KSA](#genuine--aftermarket-parts-for-german-cars--ksa)
   - [📋 Table of Contents](#-table-of-contents)
   - [🚗 About The Project](#-about-the-project)
@@ -35,7 +35,7 @@
 
 ## 🚗 About The Project
 
-**Daama Spare Parts Establishment** is a professional static business website for a KSA-based automotive spare parts shop specializing in **BMW**, **Mercedes-Benz**, and **Volkswagen** original and OEM components.
+**daamahh Spare Parts Establishment** is a professional static business website for a KSA-based automotive spare parts shop specializing in **BMW**, **Mercedes-Benz**, and **Volkswagen** original and OEM components.
 
 The website is fully **bilingual (English & Arabic)** with proper RTL/LTR layout switching, built as a **static Next.js export** and hosted on **GitHub Pages**.
 
@@ -69,7 +69,7 @@ The website is fully **bilingual (English & Arabic)** with proper RTL/LTR layout
 
 ## 📁 Project Structure
 
-daama-spare-parts/
+daamah-spare-parts/
 ├── .github/
 │ └── workflows/
 │ └── deploy.yml # GitHub Actions CI/CD
@@ -107,10 +107,10 @@ daama-spare-parts/
 
 ````bash
 # 1. Clone the repo
-git clone https://github.com/MohammadMahmoud/daama-spare-parts.git
+git clone https://github.com/MohammadMahmoud/daamah-spare-parts.git
 
 # 2. Navigate to the project
-cd daama-spare-parts
+cd daamah-spare-parts
 
 # 3. Install dependencies
 npm install
@@ -144,7 +144,7 @@ Build the Next.js static export (/out)
 
 Deploy to GitHub Pages automatically
 
-Live URL: https://mohammadmahmoud.github.io/daama-spare-parts/
+Live URL: https://mohammadmahmoud.github.io/daamah-spare-parts/
 🌐 Connecting a Custom Domain
 Purchase your domain on Namecheap
 
@@ -189,6 +189,6 @@ Remove basePath from next.config.mjs and push again
 Distributed under the MIT License. See LICENSE for more information.
 
 <div align="center">
-Built with ❤️ for Daama Spare Parts Establishment — KSA
+Built with ❤️ for Daamahh Spare Parts Establishment — KSA
 </div> ```
 ````

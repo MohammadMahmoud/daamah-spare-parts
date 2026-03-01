@@ -537,10 +537,10 @@ export default async function Home({ params }: { params: { lang: string } }) {
                 {/* <p>
                   <strong>{t.info.email}:</strong>{' '}
                   <a
-                    href='mailto:info@daama.com'
+                    href='mailto:info@daamah.com'
                     className='text-corporate hover:underline font-semibold ml-1'
                   >
-                    info@daama.com
+                    info@daamah.com
                   </a>
                 </p> */}
                 <p>

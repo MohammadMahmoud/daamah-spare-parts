@@ -4,8 +4,8 @@ const nextConfig = {
   images: { unoptimized: true },
   trailingSlash: true,
   generateRobotsTxt: true,
-  basePath: '/daama-spare-parts',
-  assetPrefix: '/daama-spare-parts/',
+  basePath: '/daamah-spare-parts',
+  assetPrefix: '/daamah-spare-parts/',
 };
 
 export default nextConfig;

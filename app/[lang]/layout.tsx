@@ -17,7 +17,7 @@ export default async function LangLayout({
   const seo = {
     en: {
       title:
-        'Daama Spare Parts - Genuine & Aftermarket Parts for BMW, Mercedes, VW | UAE',
+        'daamahh Spare Parts - Genuine & Aftermarket Parts for BMW, Mercedes, VW | UAE',
       description:
         'Premium spare parts for German cars in UAE. Specializing in BMW original and OEM components. Fast delivery across Dubai, Abu Dhabi, Sharjah.',
       keywords:
@@ -50,7 +50,7 @@ export default async function LangLayout({
             property='og:locale'
             content={lang === 'ar' ? 'ar_AE' : 'en_US'}
           />
-          <meta property='og:site_name' content='Daama Spare Parts' />
+          <meta property='og:site_name' content='daamahh Spare Parts' />
           <meta property='og:url' content={`https://yourdomain.com/${lang}`} />
 
           <meta name='twitter:card' content='summary_large_image' />
@@ -81,10 +81,10 @@ export default async function LangLayout({
             name='apple-mobile-web-app-status-bar-style'
             content='default'
           />
-          <meta name='apple-mobile-web-app-title' content='Daama Parts' />
+          <meta name='apple-mobile-web-app-title' content='daamahh Parts' />
 
           <meta name='robots' content='index, follow' />
-          <meta name='author' content='Daama Spare Parts Establishment' />
+          <meta name='author' content='daamahh Spare Parts Establishment' />
           <link rel='canonical' href={`https://yourdomain.com/${lang}`} />
 
           <script
@@ -93,7 +93,7 @@ export default async function LangLayout({
               __html: JSON.stringify({
                 '@context': 'https://schema.org',
                 '@type': 'AutomotiveBusiness',
-                name: 'Daama Spare Parts Establishment',
+                name: 'daamahh Spare Parts Establishment',
                 description: meta.description,
                 url: `https://yourdomain.com/${lang}`,
                 telephone: '+971-50-123-4567',
