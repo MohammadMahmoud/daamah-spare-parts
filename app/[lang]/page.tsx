@@ -58,6 +58,7 @@ export default async function Home({ params }: { params: { lang: string } }) {
         whatsapp: 'WhatsApp',
         email: 'Email',
         address: 'Address',
+        shortAddress: 'shortAddress',
       },
       stats: {
         stockCount: '5000+',
@@ -125,6 +126,7 @@ export default async function Home({ params }: { params: { lang: string } }) {
         whatsapp: 'واتساب',
         email: 'البريد الإلكتروني',
         address: 'العنوان',
+        shortAddress: 'العنوان المختصر',
       },
       stats: {
         stockCount: '+5000',
@@ -553,6 +555,17 @@ export default async function Home({ params }: { params: { lang: string } }) {
                   >
                     7642+VRM, Makkah Al Mukarramah St, Sinayiat Al Thuqba, Al
                     Khobar 34626, Saudi Arabia
+                  </a>
+                </p>
+                <p>
+                  <strong>{t.info.shortAddress}:</strong>{' '}
+                  <a
+                    href='https://maps.app.goo.gl/CxzCZjp65k7s4gB77'
+                    className='text-corporate hover:underline font-semibold ml-1'
+                    target='_blank'
+                    rel='noopener noreferrer'
+                  >
+                    EEDA8411
                   </a>
                 </p>
               </div>

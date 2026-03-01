@@ -93,21 +93,21 @@ export default async function LangLayout({
               __html: JSON.stringify({
                 '@context': 'https://schema.org',
                 '@type': 'AutomotiveBusiness',
-                name: 'daamahh Spare Parts Establishment',
+                name: 'daamah Spare Parts Establishment',
                 description: meta.description,
-                url: `https://yourdomain.com/${lang}`,
-                telephone: '+971-50-123-4567',
+                url: `https://daamah-spare-parts.com/${lang}`,
+                telephone: '+966590019953',
                 openingHours:
                   'Mo-Th 09:00-12:00,16:00-21:00 Fr 09:00-12:00,16:00-21:00',
                 priceRange: '£',
-                sameAs: ['https://wa.me/971501234567'],
+                sameAs: ['https://wa.me/966590019953'],
                 address: {
                   '@type': 'PostalAddress',
-                  addressCountry: 'AE',
+                  addressCountry: 'KSA',
                 },
                 areaServed: {
                   '@type': 'Country',
-                  name: 'United Arab Emirates',
+                  name: 'Kingdom of Saudi Arabia',
                 },
               }),
             }}
