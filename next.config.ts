@@ -5,6 +5,7 @@ const nextConfig = {
   trailingSlash: true,
   generateRobotsTxt: true,
   basePath: '/daama-spare-parts',
+  assetPrefix: '/daama-spare-parts/',
 };
 
 export default nextConfig;
