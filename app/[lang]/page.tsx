@@ -58,7 +58,7 @@ export default async function Home({ params }: { params: { lang: string } }) {
         whatsapp: 'WhatsApp',
         email: 'Email',
         address: 'Address',
-        shortAddress: 'shortAddress',
+        shortAddress: 'Short Address',
       },
       stats: {
         stockCount: '5000+',
